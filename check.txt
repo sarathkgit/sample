@@ -1,0 +1,3 @@
+Hello
+looking for diff between
+merge VS rebase
