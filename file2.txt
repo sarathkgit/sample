@@ -1,0 +1,3 @@
+Hello
+this is second file inside delete branch
+please make sure stash is upto date
