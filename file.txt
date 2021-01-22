@@ -2,3 +2,6 @@ Hello
 AM new to git repo
 Thanks for oppurtunity
 4th line added
+5th line
+6th line
+7th line
