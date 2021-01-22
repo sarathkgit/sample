@@ -1,0 +1,3 @@
+Hello
+AM new to git repo
+Thanks for oppurtunity
