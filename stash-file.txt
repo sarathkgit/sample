@@ -1,0 +1,4 @@
+Hi
+This is new file
+which is created for emergency 
+and previous working files was stored in stash area 
