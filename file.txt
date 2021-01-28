@@ -2,6 +2,10 @@ Hello
 AM new to git repo
 Thanks for oppurtunity
 4th line added
+<<<<<<< HEAD
+5th ine for merge and rebase
+=======
 5th line
 6th line
 7th line
+>>>>>>> f6ab3508f16bf9daae73173dbfa60814d2385b69
