@@ -1,0 +1,1 @@
+Deployment is an abstraction \n of Replica sets \n in kubernetes cluster
