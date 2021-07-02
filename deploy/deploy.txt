@@ -1,0 +1,1 @@
+Deployment manages \n replica set
